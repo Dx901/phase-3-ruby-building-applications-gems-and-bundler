@@ -1,1 +1,3 @@
-# require the environment file
+# require the environment 
+
+require_relative '../config/environment'
